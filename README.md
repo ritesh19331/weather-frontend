@@ -6,7 +6,7 @@ If you have already deployed your backend on port 8080 from https://github.com/r
 Then do the following:
 
 1. Clone the repository
-https://github.com/ritesh19331/weather-frontend.gitcd weather-app
+https://github.com/ritesh19331/weather-frontend.gitcd weather-dashboard
 
 Go to the project directory weather-frontend directory of the project  as above and run the following command
 1.	npm install
